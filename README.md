@@ -5,6 +5,7 @@ John Baskerville
 ----------------
 
 -[Baskerville 1](https://bandeattie.github.io/JohnBaskerville/baskerville.html)
+
 -[Baskerville 2](https://bandeattie.github.io/JohnBaskerville/baskerville_2.html)
 
 
