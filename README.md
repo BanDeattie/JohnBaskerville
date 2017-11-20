@@ -8,6 +8,10 @@ John Baskerville
 
 -[Baskerville 2](https://bandeattie.github.io/JohnBaskerville/baskerville_2.html)
 
+-[Baskerville 3](https://bandeattie.github.io/JohnBaskerville/baskerville_3.html)
+
+-[Baskerville 4](https://bandeattie.github.io/JohnBaskerville/baskerville_4.html)
+
 
 A brief history of type
 -----------------------
