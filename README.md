@@ -16,6 +16,8 @@ John Baskerville
 
 -[Baskerville 6](https://bandeattie.github.io/JohnBaskerville/baskerville_6.html)
 
+-[Baskerville Activity](https://bandeattie.github.io/JohnBaskerville/css_hw.html)
+
 
 A brief history of type
 -----------------------
