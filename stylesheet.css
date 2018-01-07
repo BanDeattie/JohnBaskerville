@@ -34,6 +34,7 @@ h1
     font-size: 4em;
     margin-top: 1em;
     margin-bottom: 0em; 
+    text-shadow: 1px 1px 0px #f0f0f0, 3px 3px 0px rgba(0,0,0,0.5)}
   }
 
 h2 
