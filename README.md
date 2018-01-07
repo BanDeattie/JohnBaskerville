@@ -12,6 +12,8 @@ John Baskerville
 
 -[Baskerville 4](https://bandeattie.github.io/JohnBaskerville/baskerville_4.html)
 
+-[Baskerville 5](https://bandeattie.github.io/JohnBaskerville/baskerville_5.html)
+
 
 A brief history of type
 -----------------------
