@@ -26,3 +26,5 @@ A brief history of type
 
 -[Brief history of type 3](https://bandeattie.github.io/JohnBaskerville/abriefhistoryoftype_3.html)
 
+-[Brief history of type 4](https://bandeattie.github.io/JohnBaskerville/abriefhistoryoftype_4.html)
+
