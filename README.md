@@ -38,5 +38,6 @@ Designer essay
 --------------
 
 -[Stefan Sagmeister essay](https://bandeattie.github.io/JohnBaskerville/essay.html)
+
 -[Essay Stylesheet](https://bandeattie.github.io/JohnBaskerville/essay_stylesheet.css)
 
