@@ -30,3 +30,13 @@ A brief history of type
 
 -[Brief history of type 4](https://bandeattie.github.io/JohnBaskerville/abriefhistoryoftype_4.html)
 
+
+IXD102 Introduction to Communication design
+===========================================
+
+Designer essay
+--------------
+
+-[Stefan Sagmeister essay](https://bandeattie.github.io/JohnBaskerville/essay.html)
+-[Essay Stylesheet](https://bandeattie.github.io/JohnBaskerville/essay_stylesheet.css)
+
