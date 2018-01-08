@@ -1,0 +1,168 @@
+/* general */
+* {
+   padding: 0;
+   margin: 0;
+   font-size:100%;
+   line-height: 1em;
+  }
+
+body 
+  { 
+    width: 85%; 
+    max-width: 800px;
+    margin: auto ;
+    background: black;
+    color: #333;
+    font-family: helvetica, arial, sans-serif
+  }
+        
+ h1, h2, h3 
+  {
+    font-weight: normal;
+    color: #bfbfbf ;
+    text-align: center;
+  }
+
+ p, li, blockquote 
+  {
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+    color: #f2f2f2
+  }
+        
+h1 
+  {
+    font-size: 2.25em;
+    margin-top: 1em;
+    margin-bottom: 0.5em; 
+  }
+
+h3
+  {
+    font-size: 1.5em;
+    margin: .3em .5em 0;
+  }   
+
+blockquote p 
+  {
+    hanging-punctuation: first;
+    text-indent: -0.5em; /
+  }
+.kern 
+  { 
+    letter-spacing: -5px
+  } 
+
+header 
+  {
+    margin:1em 0
+  }
+
+/* links */
+
+a 
+  {
+    color: #fff; 
+    text-decoration: none;
+    font-size: 0.75em ;
+  } 
+
+ul
+  {
+   color: #fff; 
+    text-decoration: none;
+    font-size: 0.75em ;
+  }
+
+a:hover 
+  {
+    color:#fff
+    border-bottom: 1px dotted;
+  } 
+
+/* nav */
+
+nav 
+  {    
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #737373;
+    padding: 1em 0; 
+    font-size: 0.75em
+  }
+
+
+nav ul 
+  {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+
+nav ul li 
+  {
+    display: inline;
+    margin: 20px; 
+  } 
+
+ nav a:link 
+  {
+    color: #fff
+  }
+
+nav a:visited 
+  {
+   color: #fff
+  }
+
+nav a:hover 
+  {
+    border-bottom: none;
+    color: #fff
+  } 
+
+/* type */
+
+
+blockquote 
+  {
+    padding: 2em 0 2em 0;
+    font-size: 1.75em;
+    line-height: 1.3em;
+    color: #777;
+  } 
+
+blockquote cite    
+  {
+    font-size: .75em; 
+  }
+
+
+/* Pics */
+
+img 
+  {
+    display: block;
+    margin: 2em auto; 
+    padding: 0;
+    max-width: 100%; 
+  }
+
+ 
+/* footer */
+    
+footer 
+  {
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    padding-bottom: 5em;
+  }
+
+footer hr 
+  {
+    margin: 3em 0
+  }
